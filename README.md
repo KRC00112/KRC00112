@@ -85,7 +85,7 @@ Presented @ ICCM 2024, NERIST · Accepted in **Springer PROMS** *(SCOPUS indexed
 
 <div align="center">
 
-[![GitHub Stats](https://vercel.app)](https://github.com/KRC00112/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KRC00112&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KRC00112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B388&text_color=C9D1D9&langs_count=8)
 
