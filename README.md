@@ -59,7 +59,6 @@ os: Linux
 
 ---
 
----
 
 ## `$ cat publications.txt`
 
