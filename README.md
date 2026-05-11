@@ -59,19 +59,6 @@ os: Linux
 
 ---
 
-## `$ tail -f experience.log`
-
-```
-[Jul–Aug 2023]  Cloud Computing Intern @ AMTRON, Guwahati
-                → Built and managed AWS infrastructure (EC2, S3, IAM)
-                → Configured CloudWatch dashboards and alarms
-                → Standardized IaC documentation across deployment workflows
-
-[Jul–Aug 2022]  UI Design Intern @ IIT Guwahati
-                → Designed wireframes and improved usability for internal tools
-                → Collaborated with dev teams to refine interface flows
-```
-
 ---
 
 ## `$ cat publications.txt`
