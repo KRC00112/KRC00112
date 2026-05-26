@@ -82,6 +82,6 @@ Presented @ ICCM 2024, NERIST · Accepted in **Springer PROMS** *(SCOPUS indexed
 
 <div align="center">
 
-*Open to DevOps · Cloud · SRE roles · let's build something reliable.*
+*Open to any collaboration*
 
 </div>
