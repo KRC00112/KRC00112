@@ -55,7 +55,6 @@ databases:
 messaging:
   - RabbitMQ
 
-os: Linux
 ```
 
 ---
@@ -72,9 +71,16 @@ Presented @ ICCM 2024, NERIST · Accepted in **Springer PROMS** *(SCOPUS indexed
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-ten-pearl-56.vercel.app/api?username=KRC00112)
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-ten-pearl-56.vercel.app/api?username=KRC00112" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=KRC00112&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -82,6 +88,6 @@ Presented @ ICCM 2024, NERIST · Accepted in **Springer PROMS** *(SCOPUS indexed
 
 <div align="center">
 
-*Open to any collaboration*
+*Open to any and all collaborations*
 
 </div>
