@@ -7,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustav-chakravorty-b11b6b25a)
 [![Email](https://img.shields.io/badge/kaustav2038@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaustav2038@gmail.com)
 [![Location](https://img.shields.io/badge/Guwahati,_India-222?style=flat-square&logo=googlemaps&logoColor=white)](#)
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=KRC00112)
 
 </div>
