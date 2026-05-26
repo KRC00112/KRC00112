@@ -90,6 +90,6 @@ Presented @ ICCM 2024, NERIST · Accepted in **Springer PROMS** *(SCOPUS indexed
 
 <div align="center">
 
-*Open to any and all collaborations*
+*Always eager to lend a hand*
 
 </div>
