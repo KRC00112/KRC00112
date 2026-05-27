@@ -76,10 +76,11 @@ Presented @ ICCM 2024, NERIST · Accepted in **Springer PROMS** *(SCOPUS indexed
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-ten-pearl-56.vercel.app/api?username=KRC00112" />
+       <img src="https://streak-stats.demolab.com/?user=KRC00112&theme=dark" />
+      
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=KRC00112&theme=dark" />
+       <img src="https://github-readme-stats-ten-pearl-56.vercel.app/api?username=KRC00112" />
     </td>
   </tr>
 </table>
