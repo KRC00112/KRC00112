@@ -53,8 +53,6 @@ monitoring:
 databases:
   - PostgreSQL
 
-messaging:
-  - RabbitMQ
 
 ```
 
