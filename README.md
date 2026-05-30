@@ -21,7 +21,6 @@ DevOps engineer focused on **cloud infrastructure**, **CI/CD automation**, and *
 
 - ☁️ Deploying production workloads on AWS with Terraform and GitHub Actions
 - 🔁 Designing async distributed systems with microservices and message queues
-- 🎓 B.Tech CSE · Assam Don Bosco University
 
 ---
 
