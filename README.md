@@ -30,7 +30,7 @@ DevOps engineer focused on **cloud infrastructure**, **CI/CD automation**, and *
 ```yaml
 cloud:
   provider: AWS
-  services: [EC2, S3, IAM, VPC, CloudFront, CloudWatch]
+  services: [EC2, S3, IAM, VPC, CloudFront, CloudWatch, EKS]
 
 iac_and_cicd:
   - Terraform
