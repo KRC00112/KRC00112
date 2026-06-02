@@ -19,6 +19,7 @@
 - 🏗 I enjoy building scalable systems and automating operational workflows
 - ☁️ Deploying production workloads on AWS with Terraform and GitHub Actions
 - 🔁 Designing async distributed systems with microservices and message queues
+- 🎮 Also Dabble quite a bit in game development and pixel art.
 - 🦾 Would love to work with talented people, build useful things, and keep getting better at what I do.
 
 ---
