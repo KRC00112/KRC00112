@@ -2,7 +2,7 @@
 
 # KAUSTAV RAJ CHAKRAVORTY
 
-**DevOps Engineer · Cloud Infrastructure · Distributed Systems**
+**DevOps Engineer · Cloud Infrastructure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustav-chakravorty-b11b6b25a)
 [![Email](https://img.shields.io/badge/kaustav2038@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaustav2038@gmail.com)
@@ -14,13 +14,12 @@
 </div>
 
 ---
-
 ## `$ whoami`
-
-DevOps engineer focused on **cloud infrastructure**, **CI/CD automation**, and **distributed systems**. I like building things that are observable from day one and reproducible from day zero.
-
+- 🙍‍♂️ DevOps engineer focused on **cloud infrastructure** and **CI/CD automation**
+- 🏗 I enjoy building scalable systems and automating operational workflows
 - ☁️ Deploying production workloads on AWS with Terraform and GitHub Actions
 - 🔁 Designing async distributed systems with microservices and message queues
+- 🦾 Would love to work with talented people, build useful things, and keep getting better at what I do.
 
 ---
 
