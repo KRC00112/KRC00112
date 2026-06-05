@@ -69,7 +69,7 @@ Presented @ ICCM 2024, NERIST · Accepted in **Springer PROMS** *(SCOPUS indexed
 ## `$ systemctl status stats`
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=KRC00112&theme=dark" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=KRC00112&theme=tokyonight" />
 
 ---
 
