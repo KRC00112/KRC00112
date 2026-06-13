@@ -107,19 +107,6 @@ Accepted in **Springer PROMS** *(SCOPUS Indexed)* — July 2026
 
 ---
 
-## `$ current_focus`
-
-```yaml
-focus:
-  - Cloud Native Infrastructure
-  - Kubernetes & Container Orchestration
-  - Infrastructure as Code
-  - CI/CD Automation
-  - Platform Engineering
-  - Monitoring & Observability
-```
-
----
 
 <div align="center">
 
