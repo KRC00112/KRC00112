@@ -84,7 +84,7 @@
 
 Presented @ **ICCM 2024, NERIST**
 
-Accepted in **Springer PROMS** *(SCOPUS Indexed)* — July 2026
+Accepted in **Springer PROMS** *(SCOPUS Indexed)* — Nov 2026
 
 ---
 
