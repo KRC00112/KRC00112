@@ -18,14 +18,14 @@
 
 ## `$ whoami`
 
-- 🙍‍♂️ DevOps Engineer focused on **Cloud Infrastructure** and **CI/CD Automation**.
-- 🏗 I enjoy building scalable systems and automating operational workflows.
-- ☁️ Deploying production workloads on AWS using Terraform and GitHub Actions.
-- 🔁 Designing distributed systems with microservices and asynchronous architectures.
-- 📊 Passionate about monitoring, observability, and infrastructure reliability.
-- 🌐 Experienced in building full-stack web applications.
-- 🎮 Also dabble quite a bit in game development and pixel art.
-- 🦾 Would love to work with talented people, build useful things, and keep getting better at what I do.
+- 🙍‍♂️ DevOps Engineer focused on **Cloud Infrastructure** and **CI/CD Automation**
+- 🏗 I enjoy building scalable systems and automating operational workflows
+- ☁️ Deploying production workloads on AWS using Terraform and GitHub Actions
+- 🔁 Designing distributed systems with microservices and asynchronous architectures
+- 📊 Passionate about monitoring, observability, and infrastructure reliability
+- 🌐 Experienced in building full-stack web applications
+- 🎮 Also dabble quite a bit in game development and pixel art
+- 🦾 Would love to work with talented people, build useful things, and keep getting better at what I do
 
 ---
 
