@@ -18,7 +18,7 @@
 
 ## `$ whoami`
 
-- 🙍‍♂️ DevOps Engineer focused on **Cloud Infrastructure** and **CI/CD Automation**
+- 🙍‍♂️ DevOps Engineer focused on Cloud Infrastructure and CI/CD Automation
 - 🏗 I enjoy building scalable systems and automating operational workflows
 - ☁️ Deploying production workloads on AWS using Terraform and GitHub Actions
 - 🔁 Designing distributed systems with microservices and asynchronous architectures
