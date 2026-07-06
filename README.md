@@ -96,9 +96,9 @@ Accepted in **Springer PROMS** *(SCOPUS Indexed)* — Nov 2026
 
 <br/>
 
-<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KRC00112&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KRC00112&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRC00112&layout=compact&theme=tokyonight&hide_border=true"/> -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRC00112&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
