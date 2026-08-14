@@ -77,16 +77,6 @@
 
 ---
 
-## `$ cat publications.txt`
-
-📄 **Comparative Analysis of Pre-Trained Deep Learning Models for Abstractive Summarization of Legislative Bills**
-
-Presented @ **ICCM 2024, NERIST**
-
-Accepted in **Springer PROMS** *(SCOPUS Indexed)* — Nov 2026
-
----
-
 ## `$ systemctl status stats`
 
 <div align="center">
