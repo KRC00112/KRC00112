@@ -21,7 +21,6 @@
 - 🙍‍♂️ DevOps Engineer focused on Cloud Infrastructure and CI/CD Automation
 - 🌐 Experienced in building full-stack web applications
 - 🎮 Also dabble quite a bit in game development and pixel art
-- 🦾 Would love to work with talented people, build useful things, and keep getting better at what I do
 - 🧑‍🏫 Currently learning Rust and systems programming
 
 ---
