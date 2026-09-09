@@ -18,10 +18,10 @@
 
 ## `$ whoami`
 
-- 🙍‍♂️ DevOps Engineer focused on Cloud Infrastructure and CI/CD Automation
-- 🌐 Experienced in building full-stack web applications
-- 🎮 Also dabble quite a bit in game development and pixel art
-- 🧑‍🏫 Currently learning Rust and systems programming
+- DevOps Engineer focused on Cloud Infrastructure and CI/CD Automation
+- Experienced in building full-stack web applications
+- Also dabble quite a bit in game development and pixel art
+- Currently learning Rust and systems programming
 
 ---
 
