@@ -84,7 +84,7 @@
 
 <img height="170em" src="https://github-readme-stats-ten-pearl-56.vercel.app/api?username=KRC00112&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats-ten-pearl-56.vercel.app/api/top-langs/?username=KRC00112&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-ten-pearl-56.vercel.app/api/top-langs/?username=KRC00112&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=MGS2-source-code"/>
 
 </div>
 
